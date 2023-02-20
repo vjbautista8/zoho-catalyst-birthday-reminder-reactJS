@@ -1,0 +1,10 @@
+{
+	"deployment": {
+		"name": "birthday_reminder_function",
+		"stack": "node16",
+		"type": "advancedio"
+	},
+	"execution": {
+		"main": "index.js"
+	}
+}
